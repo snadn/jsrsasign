@@ -1,0 +1,17 @@
+{
+  "name": "just_public_enc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch --coverage --collectCoverageFrom=index*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^23.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.1.0"
+  }
+}
